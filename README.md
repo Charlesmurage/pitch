@@ -1,8 +1,8 @@
-Pitch-IT
-By Charles Maina
+## Pitch-IT
+# By Charles Maina
 Pitches is a web application that allows users to use that one minute wisely. The users will submit their one minute pitch and other users will vote on them and leave comments to give their feedback on them. The pitches are organized by category. You can have different categories of pitches.
 
-User Requirements
+## User Requirements
 user should see the pitches other people have posted.
 user should view the different categories
 user should vote on the pitch they liked and give it a downvote or upvote.
@@ -11,17 +11,17 @@ user should submit a pitch in any category.
 Specifications
 Specification file
 
-Live Demo
-The web app can be accessed from the following link https://pitch-eat.herokuapp.com/
+## Live Demo
+The web app can be accessed from the following link https://murage-pitch.herokuapp.com/
 
-Technology used
+## Technology used
 Python3.6
 Flask
 Heroku
 Contributions
-Git clone https://github.com/Imma7/Pitch-IT.git
+Git clone https://github.com/charles/murage-pitch.git
 Make the changes.
 Write your tests on tests/
 If everything is OK. push your changes and make a pull request.
-License (MIT License)
+## License (MIT License)
 This project is licensed under the MIT Open Source license, (c) Charles Murage
