@@ -18,7 +18,6 @@ class User(UserMixin, db.Model):
     bio = db.Column(db.String(255))
     profile_pic_path = db.Column(db.String(100))
     photoprofiles = db.relationship('PhotoProfile', backref = 'user', lazy = 'dynamic')
-    categories = db.relationship('categories', backref = 'user', lazy = 'dynamic')
 
     @property
     def password(self):
