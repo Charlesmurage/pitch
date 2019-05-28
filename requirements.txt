@@ -13,7 +13,6 @@ Flask-Bootstrap==3.3.7.1
 Flask-Script==2.0.6
 Flask-SQLAlchemy==2.4.0
 gunicorn==19.9.0
-gyp==0.1
 idna==2.6
 ipaddress==1.0.17
 itsdangerous==1.1.0
