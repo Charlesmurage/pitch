@@ -60,6 +60,7 @@ class Pitch(db.Model):
         return pitches
 
 
+
 class Category(db.Model):
     __tablename__ = 'categories'
     id = db.Column(db.Integer, primary_key = True)
